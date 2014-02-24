@@ -1,0 +1,6 @@
+The image file in this directory ("Milkyway.jpg") is provided from sIBL Archive.
+
+http://www.hdrlabs.com/sibl/archive.html
+
+It is licensed under the Creative Commons Attribution-Noncommercial-Share Alike 3.0 License.
+See their web page for more detailed information.
